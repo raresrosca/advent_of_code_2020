@@ -1,1 +1,5 @@
-# advent_of_code_2020
+# Advent of Code 2020
+
+All solutions use Python.
+
+:christmas_tree: :christmas_tree: :christmas_tree:
